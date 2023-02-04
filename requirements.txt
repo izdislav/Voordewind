@@ -9,3 +9,4 @@ itsdangerous==2.1.2
 setuptools==60.2.0
 zipp==3.8.0
 Flask==2.1.1
+python-docx==0.8.11
